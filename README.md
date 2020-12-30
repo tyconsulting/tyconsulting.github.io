@@ -1,2 +1,1 @@
-# tyconsulting.github.io
-TY Consulting web site
+# TY Consulting site
