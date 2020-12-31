@@ -10,6 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+#theme                    : "minima"
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -20,7 +21,7 @@ title                    : "TY Consulting"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TY Consulting"
-description              : "Your Microsoft Azure Experts"
+description              : "Your Microsoft Cloud Experts"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tyconsulting/tyconsulting.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -170,6 +171,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _obsolete
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
