@@ -1,15 +1,14 @@
 ---
 title: AzPolicyLens
 permalink: /azpolicylens/
-layout: default
+layout: single
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/azpolicylens-header.png
+excerpt: "A smarter way to bring visibility, consistency, and security to your Azure Cloud environment"
 ---
-# AzPolicyLens
-
-A smarter way to bring visibility, consistency, and security to your Azure Cloud environment.
-
-![Banner](\assets\images\azpolicylens\logo\banner.png)
-
-## Why Azure Policy Feels Hard?
 
 Azure Policy can feel overwhelming due to its complexity and the sheer volume of policies that need to be managed. Organizations often struggle with:
 
