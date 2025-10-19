@@ -14,7 +14,7 @@ Azure Policy can feel overwhelming due to its complexity and the sheer volume of
 
 - **Lack of Visibility**: Difficulty in understanding which policies are in place and their impact on resources.
 - **Lack of Reporting and Compliance Monitoring**: Challenges in tracking compliance status and generating reports for audits.
-- ** Incorrect policy configurations**: It is common to have inconsistent, overlapping or incorrect policy definitions that can lead to security vulnerabilities.
+- **Incorrect policy configurations**: It is common to have inconsistent, overlapping or incorrect policy definitions that can lead to security vulnerabilities.
 - **No Clear Documentation**: Policies are often poorly documented, making it hard for teams to understand their purpose and implementation.
 - **Lack of Security Control Mapping**: Inconsistent and lack of clarity in mapping policies to specific security controls or frameworks, leading to gaps in compliance.
 
