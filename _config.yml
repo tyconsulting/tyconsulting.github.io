@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 #theme                    : "minima"
-theme                    : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+#theme                    : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -133,7 +133,7 @@ footer:
       url: "https://github.com/tyconsulting"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url: 
+      # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -218,7 +218,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -226,7 +228,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 
 # Archives
