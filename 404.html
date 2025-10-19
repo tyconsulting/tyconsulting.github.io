@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-
+<script>
+    window.onload = () => {
+        currentURL = window.location.href;
+        lowerCaseURL = currentURL.toLowerCase();
+        if (currentURL != lowerCaseURL) {
+            location.replace(lowerCaseURL);
+        }
+    };
+</script>
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
