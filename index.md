@@ -12,9 +12,16 @@ header:
       #url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 #excerpt: "We are passionated about Microsoft Cloud Technology. We are the cloud consultants you can truely trust."
-intro: 
+intro:
   - excerpt: 'We are passionated about Microsoft Cloud Technology. We are the cloud consultants you can truely trust.'
 feature_row:
+  - image_path: assets/images/azpolicylens.png
+    alt: "AzPolicyLens"
+    title: "AzPolicyLens"
+    excerpt: "A smarter way to bring visibility, consistency, and security to your Azure Cloud environment"
+    url: "/azpolicylens/"
+    btn_label: "AzPolicyLens"
+    btn_class: "btn--primary"
   - image_path: assets/images/contact-us.png
     alt: "Contact Us"
     title: "Contact Us"
