@@ -6,7 +6,7 @@ layout: single
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/azpolicylens-header.png
+  overlay_image: /assets/images/azpolicylens-header-1.png
 excerpt: "A smarter way to bring visibility, consistency, and security to your Azure Cloud environment"
 ---
 
